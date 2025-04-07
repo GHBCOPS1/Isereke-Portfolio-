@@ -29,12 +29,11 @@ ECR Clinical Scientist
 
 
 My Projects
-Project One Title
 GHBC Picks Notebooks and Smiles. (HTML, CSS, Gemini, Sublime, JavaScript) and small learns big impact records site for students to learn the main activities in the Pnbs programme.
 click for live demonstration of your class performance;
 View Live | View Code
 
-Project Two Title
+title:
 Metrics measurement of dataset to evaluate model performance using Accuracy,  Recall, Precision and F-Score and Tm-Score. particle type identified in precise location as x, y, z coordinates and Fractional coordinates, their structure at  near atomic distances in angstrom. Computationally analysing the performance of the model.using Gemini and python Notebooks in the Kaggle and Colab platform.
 Click below to view demos;
 View Live | View Code
@@ -44,4 +43,8 @@ GHBC Products projection, market analysis, market predictions and model performa
 
 Vi>ew Code
 
+
+AI/ML IN MDR-TB PATIENT DATA ANALYSIS 
+AI/ML IN DRTB MACHINE PROFICIENCY TESTING PERFORMANCE EVALUATION 
+AI/ML IN EVALUATING AMR
 © 2023 Diyerin. All rights reserved.
