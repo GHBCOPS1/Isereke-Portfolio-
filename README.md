@@ -1,6 +1,6 @@
 # Isereke-Portfolio-
 Isereke Diyerin
-Clinical Scientist,Administrator, Training, Research and development supervisor,Product Developer, Designer and Data Scientist 
+Clinical Scientist, Administrator, Training, Research and development supervisor,Product Developer, Designer and Data Scientist 
 
 Home
 Projects
